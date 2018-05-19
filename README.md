@@ -1,6 +1,5 @@
 # Project cuối kỳ lập trình Web2
 ## Đề tài: Trang web đấu giá như web [Chilindo](chilindo.com)
-
 #####Các thành viên thực hiện: 4
 #####1560704 - [Phạm Quốc Thái](facebook.com/Thai.Hcmus)
 #####1560621 - Nguyễn Thành Hiếu Trung
